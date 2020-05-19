@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: gordyt/podinfo
-      tag: stg-9ij63o4c
+      tag: stg-fp7m86ti
     replicaCount: 2
     hpa:
       enabled: true
