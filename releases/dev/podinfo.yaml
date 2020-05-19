@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: gordyt/podinfo
-      tag: dev-rtiejkb6
+      tag: dev-tgidcwur
     replicaCount: 1
     hpa:
       enabled: false
